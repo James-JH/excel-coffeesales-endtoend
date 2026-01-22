@@ -1,4 +1,5 @@
 # Excel Coffee Sales Dashboard — End-to-End Data Analysis
+![Finalised Dashboard](screenshots/FinalisedDashboard.png) 
 
 ## Project Overview
 This project demonstrates an **end-to-end data analytics workflow using only Excel**, from raw transactional data to an interactive executive-style dashboard.  
@@ -116,7 +117,7 @@ From a **Data Analyst perspective**, the goals were to:
 | Connect Slicer to Pivot Visuals | ![Connect Slicer to Pivot Visuals](screenshots/ConnectionsSlicertoPivotVis.png) |
 | Create Charts and Slicers | ![Create Charts and Slicers](screenshots/CreateChartandSlicers.png) |
 | Create Dashboard Sheet | ![Create Dashboard Sheet](screenshots/CreateDashboardSheet.png) |
-| Finalised Dashboard | ![Finalised Dashboard](screenshots/FinalisedDashboard.png) |
+
 | KPI Indicator | ![KPI Indicator](screenshots/FormulaKPIIndicator.png) |
 | INDEX() Example | ![INDEX() Example](screenshots/index().png) |
 | No Loyalty Card Example | ![No Loyalty Card Example](screenshots/NoLoyaltyCard.png) |
