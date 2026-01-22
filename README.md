@@ -23,7 +23,7 @@ From a **Data Analyst perspective**, the goals were to:
 ## End-to-End Workflow
 
 1. **Customer Lookup Using XLOOKUP**  
-![XLOOKUP Example](screenshots/xlookup().png) |
+![XLOOKUP Example](screenshots/xlookup().png)
    - Enriched the Orders table with Customer Name, Email, and Country using XLOOKUP:  
    ```excel
    =XLOOKUP(orders!C2, customers!$A$1:$A$1001, customers!$B$1:$B$1001,,0)
@@ -31,7 +31,7 @@ From a **Data Analyst perspective**, the goals were to:
    - Locked ranges (`$`) to ensure robust lookups.
 
 2. **Handling Zero / Invalid Lookup Results**  
-![XLOOKUP Remove 0s](screenshots/xlookupRemove0es.png) |
+![XLOOKUP Remove 0s](screenshots/xlookupRemove0es.png)
    ```excel
    =IF(XLOOKUP(C5, customers!$A$1:$A$1001, customers!$C$1:$C$1001,,0)=0,"",XLOOKUP(C5, customers!$A$1:$A$1001, customers!$C$1:$C$1001))
    ```  
@@ -52,7 +52,7 @@ From a **Data Analyst perspective**, the goals were to:
 5. **Pivot Tables & Summarisation**
    - Built pivot tables to analyse: total sales, sales by coffee type, roast type, country, and top customers  
    - Added timeline slicers for dynamic date filtering
-   | Create Charts and Slicers | ![Create Charts and Slicers](screenshots/CreateChartandSlicers.png) |
+  ![Create Charts and Slicers](screenshots/CreateChartandSlicers.png)
 
 6. **Loyalty Card Segmentation**  
 ![Add Loyalty Card Column](screenshots/addLoyaltyCardcolumn.png)
@@ -77,9 +77,6 @@ From a **Data Analyst perspective**, the goals were to:
    - Consolidated all visuals into a single dashboard sheet with consistent styling and executive-friendly layout
    - Connected all slicers to pivot tables
 ![Connect Slicer to Pivot Visuals](screenshots/ConnectionsSlicertoPivotVis.png)
-
-9. **Final Interactive Dashboard**  
-   - Supports filtering by: time (Jan 2020 – Jun 2020), product (Dark Roast, 2.5kg), coffee type (Excelsa vs Excel), loyalty vs non-loyalty customers
 
 ---
 
@@ -124,10 +121,10 @@ From a **Data Analyst perspective**, the goals were to:
 
 ## Demo Visuals
 
-| Step | Screenshot |
+| Feature | Screenshot |
 |------|------------|
-| Adjust Coffee Type Size | ![Adjust Coffee Type Size](screenshots/AdjustSizeCoffeeType.png) |
-| Adjust Roast Size | ![Adjust Roast Size](screenshots/AdjustSizeRoast.png) |
+| Adjust Coffee Type & Size | ![Adjust Coffee Type Size](screenshots/AdjustSizeCoffeeType.png) |
+| Adjust Roast Type & Size | ![Adjust Roast Size](screenshots/AdjustSizeRoast.png) |
 | Adjust Time | ![Adjust Time](screenshots/AdjustTime.png) |
-| No Loyalty Card Example | ![No Loyalty Card Example](screenshots/NoLoyaltyCard.png) |
-| Yes Loyalty Card Example | ![Yes Loyalty Card Example](screenshots/YesLoyaltyCard.png) |
+| "No" Loyalty Card Example | ![No Loyalty Card Example](screenshots/NoLoyaltyCard.png) |
+| "Yes" Loyalty Card Example | ![Yes Loyalty Card Example](screenshots/YesLoyaltyCard.png) |
