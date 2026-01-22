@@ -50,9 +50,11 @@ From a **Data Analyst perspective**, the goals were to:
    - Checked for duplicates and validated table joins to ensure analytical accuracy.
 
 5. **Pivot Tables & Summarisation**
-   - Built pivot tables to analyse: total sales, sales by coffee type, roast type, country, and top customers  
-   - Added timeline slicers for dynamic date filtering
+![Pivot Table Sales Over Time](screenshots/PivotTableSalesoverTime.png)
+   - Built pivot tables to analyse: total sales, sales by coffee type, roast type, country, and top customers
+
 ![Create Charts and Slicers](screenshots/CreateChartandSlicers.png)
+   - Added timeline slicers for dynamic date filtering
 
 6. **Loyalty Card Segmentation**  
 ![Add Loyalty Card Column](screenshots/addLoyaltyCardcolumn.png)
@@ -62,8 +64,8 @@ From a **Data Analyst perspective**, the goals were to:
 7. **Visualisation Sheets**
 Duplicated pivot tables into separate sheets for styling and clarity:  
 Sales Overview, Sales by Country, Top 5 Customers, Roast Type Sales, Coffee Type Sales
+
 **Pivot Table Sales Over Time**
-![Pivot Table Sales Over Time](screenshots/PivotTableSalesoverTime.png)
 ![Sales Over Time Chart](screenshots/salesovertimechart.png)
 
 **Sales by Coffee Type Chart**
