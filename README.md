@@ -138,3 +138,6 @@ Sales Overview, Sales by Country, Top 5 Customers, Roast Type Sales, Coffee Type
 | Adjust Time | ![Adjust Time](screenshots/AdjustTime.png) |
 | "No" Loyalty Card Example | ![No Loyalty Card Example](screenshots/NoLoyaltyCard.png) |
 | "Yes" Loyalty Card Example | ![Yes Loyalty Card Example](screenshots/YesLoyaltyCard.png) |
+
+## Author
+Developed by: @James-JH
