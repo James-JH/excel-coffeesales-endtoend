@@ -8,7 +8,7 @@ Focus areas include **data preparation, relational analysis, validation, pivot-b
 Please feel free to [download the Excel dashboard here](CoffeeSalesExcel.xlsx) to explore and interact with it.
 
 **Dataset:** [Coffee Bean Sales Raw Dataset (Kaggle)](https://www.kaggle.com/datasets/saadharoon27/coffee-bean-sales-raw-dataset)  
-The dataset contains sales transactions, customer details, and product attributes for a fictional coffee retailer.
+The dataset contains sales transactions, customer details, and product attributes for a coffee retailer.
 
 ---
 
