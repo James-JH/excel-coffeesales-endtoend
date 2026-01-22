@@ -95,9 +95,9 @@ Sales Overview, Sales by Country, Top 5 Customers, Roast Type Sales, Coffee Type
 ## Analysis & Insights
 
 - **Most Popular Coffee Category:** Light coffee — total sales of $17,354.47  
-- **Top-Selling Coffee Variant:** Excel — total sales of $12,306.44  
+- **Top-Selling Coffee Variant:** Excelsa — total sales of $12,306.44  
 - **Most Popular Packet Size:** 2.5 kg — total sales of $23,785.57  
-- **Top Customer by Sales:** Allis — total sales of $317  
+- **Top Customer and Country by Sales:** Allis — total sales of $317, US - top country of sales  
 - **Sales Concentration:** A small number of products, sizes, and customers drive the majority of revenue  
 
 ---
