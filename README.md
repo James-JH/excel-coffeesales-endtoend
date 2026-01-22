@@ -3,7 +3,9 @@
 
 ## Project Overview
 This project demonstrates an **end-to-end data analytics workflow using only Excel**, from raw transactional data to an interactive executive-style dashboard.  
-Focus areas include **data preparation, relational analysis, validation, pivot-based insights, and executive-level visualisation**, reflecting tasks a Data Analyst performs in business environments.  
+Focus areas include **data preparation, relational analysis, validation, pivot-based insights, and executive-level visualisation**, reflecting tasks a Data Analyst performs in business environments. 
+
+Please feel free to [download the Excel dashboard here](CoffeeSalesExcel.xlsx) to explore and interact with it.
 
 **Dataset:** [Coffee Bean Sales Raw Dataset (Kaggle)](https://www.kaggle.com/datasets/saadharoon27/coffee-bean-sales-raw-dataset)  
 The dataset contains sales transactions, customer details, and product attributes for a fictional coffee retailer.
