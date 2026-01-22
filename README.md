@@ -52,7 +52,7 @@ From a **Data Analyst perspective**, the goals were to:
 5. **Pivot Tables & Summarisation**
    - Built pivot tables to analyse: total sales, sales by coffee type, roast type, country, and top customers  
    - Added timeline slicers for dynamic date filtering
-  ![Create Charts and Slicers](screenshots/CreateChartandSlicers.png)
+![Create Charts and Slicers](screenshots/CreateChartandSlicers.png)
 
 6. **Loyalty Card Segmentation**  
 ![Add Loyalty Card Column](screenshots/addLoyaltyCardcolumn.png)
@@ -60,23 +60,31 @@ From a **Data Analyst perspective**, the goals were to:
    - Enriched Orders with loyalty card status to segment customer behavior
 
 7. **Visualisation Sheets**
-   - Duplicated pivot tables into separate sheets for styling and clarity:  
-     - Sales Overview, Sales by Country, Top 5 Customers, Roast Type Sales, Coffee Type Sales
-     | Pivot Table Sales Over Time | ![Pivot Table Sales Over Time](screenshots/PivotTableSalesoverTime.png) |
-    | Sales by Coffee Type Chart | ![Sales by Coffee Type Chart](screenshots/SalesbyCoffeeTypeChart.png) |
-    | Sales by Country Visualisation | ![Sales by Country Visualisation](screenshots/SalesbyCountryVis.png) |
-    | Sales by Roast Type Chart | ![Sales by Roast Type Chart](screenshots/SalesbyRoastTypeChart.png) |
-    | Sales Over Time Chart | ![Sales Over Time Chart](screenshots/salesovertimechart.png) |
-    | Top 5 Customers Chart | ![Top 5 Customers Chart](screenshots/Top5CustomersChart.png) |
-     - Separate Sales Dashboard Sheet
-     ![Create Dashboard Sheet](screenshots/CreateDashboardSheet.png)
+Duplicated pivot tables into separate sheets for styling and clarity:  
+Sales Overview, Sales by Country, Top 5 Customers, Roast Type Sales, Coffee Type Sales
+**Pivot Table Sales Over Time**
+![Pivot Table Sales Over Time](screenshots/PivotTableSalesoverTime.png)
+![Sales Over Time Chart](screenshots/salesovertimechart.png)
+
+**Sales by Coffee Type Chart**
+![Sales by Coffee Type Chart](screenshots/SalesbyCoffeeTypeChart.png)
+
+**Sales by Country Chart**
+![Sales by Country Visualisation](screenshots/SalesbyCountryVis.png)
+
+**Sales by Roast Type Chart**
+![Sales by Roast Type Chart](screenshots/SalesbyRoastTypeChart.png)
+
+**Top 5 Customers Chart**
+![Top 5 Customers Chart](screenshots/Top5CustomersChart.png)
 
 8. **KPI Card & Dashboard Assembly** 
 ![KPI Indicator](screenshots/FormulaKPIIndicator.png)
    - Created a dynamic Total Sales KPI linked to pivot tables  
-   - Consolidated all visuals into a single dashboard sheet with consistent styling and executive-friendly layout
-   - Connected all slicers to pivot tables
+   - Consolidated all visuals into a single dashboard sheet with consistent styling and           executive-friendly layout
+
 ![Connect Slicer to Pivot Visuals](screenshots/ConnectionsSlicertoPivotVis.png)
+   - Connected all slicers to pivot tables
 
 ---
 
@@ -87,8 +95,6 @@ From a **Data Analyst perspective**, the goals were to:
 - **Most Popular Packet Size:** 2.5 kg — total sales of $23,785.57  
 - **Top Customer by Sales:** Allis — total sales of $317  
 - **Sales Concentration:** A small number of products, sizes, and customers drive the majority of revenue  
-
-(All insights derived directly from pivot tables and slicer-controlled views in the dashboard.)
 
 ---
 
